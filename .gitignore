@@ -162,3 +162,6 @@ cython_debug/
 data/criteo_attribution_dataset.tsv.gz
 data/criteo_attribution_dataset.zip
 .DS_Store
+
+data/
+models/
