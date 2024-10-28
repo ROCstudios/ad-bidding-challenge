@@ -4,6 +4,8 @@
 
 # Ad Buying Predictions
 
+[Developer's Logs](https://www.notion.so/adrianmohnacs/6538f2b1e4f7495b9618842659e13ea7)
+
 Please read below to understand the file structure and how to orient with the task.
 
 data/
